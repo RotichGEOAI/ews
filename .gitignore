@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+geoai_ews/.env
+geoai_ews/.streamlit/secrets.toml
+geoai_ews/data/dem/*.tif
+geoai_ews/data/embeddings/*.parquet
+geoai_ews/data/terrain/
+geoai_ews/data/risk_grid/
+.pytest_cache/
